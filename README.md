@@ -1,10 +1,17 @@
-# js-scraper-mercadolibre
-Webinar de Scraper de Merado Libre (Peru) con Javascript, Node, Express y Axios
+# Webinar 01 - Enter Tech School
+```
+js-scraper-mercadolibre
+```
+Haciendo un Scraper de Merado Libre (Peru) en vivo. Usando Javascript: 
+- Node
+- Express
+- Axios
+- Cheerio
 
 ### Software Requirements:
 - Node >= v20 
 
-### Instalation:
+### Installation:
 
 - npm install
 
